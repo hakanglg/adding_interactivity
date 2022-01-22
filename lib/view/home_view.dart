@@ -1,6 +1,7 @@
-import 'package:adding_interactivity/companents/button_label.dart';
-import 'package:adding_interactivity/constants/string_constants.dart';
 import 'package:flutter/material.dart';
+
+import '../companents/button_label.dart';
+import '../constants/string_constants.dart';
 
 class HomeView extends StatelessWidget {
   const HomeView({Key? key}) : super(key: key);
